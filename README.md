@@ -6,4 +6,4 @@
 |--|--|
 | updateRemoteBranch | 更新git远程分支 |
 | updateHosts | 更新hosts文件 |
-
+| copyTracker | 复制Tracker |
